@@ -1,0 +1,6 @@
+LAT_RANGE = (26.50, 27.17)
+LON_RANGE = (80.50, 81.22)
+MAX_ORDERS = 30
+MAX_CAPACITY_KG = 20
+GIG_DURATION = 2.5 * 60  # in minutes
+BREAK_DURATION = 15  # in minutes
